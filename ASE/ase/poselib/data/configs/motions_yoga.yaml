@@ -1,0 +1,16 @@
+motions:
+  root: "../retarget_npy/"
+  
+  "49_18":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "balance on one leg, outstretched arms"
+    difficulty: 4
+  
+  "13_29":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "jumping jacks, side twists, bend over, squats"
+    difficulty: 4

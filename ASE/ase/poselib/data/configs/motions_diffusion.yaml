@@ -1,0 +1,105 @@
+motions:
+  root: "../retarget_npy/"
+  'boxing':
+    description: "boxing"
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'hug':
+    description: "hug"
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  "shakehand":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "shake hand"
+    difficulty: 4
+  "gongxi_move":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "gongxi facai"
+    difficulty: 4
+  "gongxi_hongbao_move":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "gongxi facai, fetch hongbao"
+    difficulty: 4
+  "gongxi_large_move":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "gongxi exagerate"
+    difficulty: 4
+  "gongxi_large2_move":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "gongxi exagerate hongbao"
+    difficulty: 4
+  "backpack_move":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "wear backpack"
+    difficulty: 4
+  "kemusan_move":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "kemusan"
+    difficulty: 4
+  "uptown_move":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "uptown funk"
+    difficulty: 4
+  "uptown_long_move":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "uptown funk longer"
+    difficulty: 4
+  "shower_move":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "xi zao ge"
+    difficulty: 4
+  "gangnam_move":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "gangnam style"
+    difficulty: 4
+  "hiphop_move":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "hip hop"
+    difficulty: 4
+  "punch_defense_move":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "punch defense"
+    difficulty: 4
+  "punch_defense2_move":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "punch defense"
+    difficulty: 4
+  "basketball_move":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "basketball signal"
+    difficulty: 4
+  

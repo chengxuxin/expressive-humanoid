@@ -1,0 +1,163 @@
+motions:
+  root: "../retarget_npy/"
+  'sample00_rep00':
+    description: diffusion
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '144_20':
+    description: Punch_Sequence
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  "02_05":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "punch, stirke"
+    difficulty: 4
+  '91_05':
+    description: Mummy Walk
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '104_41':
+    description: ZombieWalk
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  
+  '141_22':
+    description: High Five
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+
+  '41_10':
+    description: basketball signals
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '32_07':
+    description: basketball signals
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  "38_03":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "run around in a circle"
+    difficulty: 2
+  
+  '90_31':
+    description: russian dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  
+  '81_18':
+    description: adjust hair walk forward
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  
+  '80_40':
+    description: drinking from bottle
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  
+  '61_12':
+    description: salsa dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  
+  '18_02':
+    description: walk, shake hands (2 subjects - subject A)
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+
+  '23_08':
+    description: swing arms, walk (2 subjects - subject B)
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  
+  '21_11':
+    description: high-five, walk (2 subjects - subject B)
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  
+  '15_08':
+    description: hand signals - horizontally revolve forearms
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  
+  '14_26':
+    description: direct traffic, wave, point
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  
+  '141_16':
+    description: Wave Hello
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  
+  "08_11":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "slow walk, stride"
+    difficulty: 2
+  
+  "08_07":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "walk, exaggerated stride"
+    difficulty: 2
+  
+  "142_08":
+    trim_beg: 200
+    trim_end: 876
+    weight: 1.0
+    description: "walk happily"
+    difficulty: 0
+  
+  "16_36":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "run"
+    difficulty: 4
+  
+  "13_20":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "wash window"
+    difficulty: 4

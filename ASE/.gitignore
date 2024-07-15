@@ -1,0 +1,13 @@
+*.pyc
+
+.vs/
+runs/
+__pycache__/
+output/
+log/
+nn/
+cmu_fbx_all/
+npy/
+retarget_npy/
+fbx/
+pkl/

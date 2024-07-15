@@ -1,0 +1,9 @@
+sample01_rep02
+sample00_rep01
+sample03_rep00
+sample01_rep00
+sample00_rep00
+sample03_rep01
+sample02_rep01
+sample01_rep01
+sample02_rep00

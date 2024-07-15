@@ -1,0 +1,27 @@
+{
+    "source_motion": "data/npy/walking_smpl.npy",
+    "target_motion_path": "data/retarget_npy/walking_smpl_out.npy",
+    "source_tpose": "data/tpose/smpl_tpose.npy",
+    "target_tpose": "data/tpose/h1_tpose.npy",
+    "joint_mapping": {
+         "Pelvis": "pelvis",
+         "L_Hip": "left_hip_yaw_link",
+         "L_Knee": "left_knee_link",
+         "L_Ankle": "left_ankle_link",
+         "R_Hip": "right_hip_yaw_link",
+         "R_Knee": "right_knee_link",
+         "R_Ankle": "right_ankle_link",
+         "Spine3": "torso_link",
+         "L_Shoulder": "left_shoulder_pitch_link",
+         "L_Elbow": "left_elbow_link",
+         "L_Wrist": "left_hand_link",
+         "R_Shoulder": "right_shoulder_pitch_link",
+         "R_Elbow": "right_elbow_link",
+         "R_Wrist": "right_hand_link"
+    },
+    "rotation": [0.5, 0.5, 0.5, 0.5],
+    "scale": 0.0564,
+	"root_height_offset": 0.0,
+	"trim_frame_beg": -1,
+	"trim_frame_end": -1
+}

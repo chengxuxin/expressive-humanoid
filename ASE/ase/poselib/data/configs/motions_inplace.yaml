@@ -1,0 +1,44 @@
+motions:
+  root: "../retarget_npy/"
+  
+  "02_05":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "punch, stirke"
+    difficulty: 4
+    
+  "13_20":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "wash window"
+    difficulty: 4
+
+  "02_06":
+    trim_beg: 0
+    trim_end: 664
+    weight: 1.0
+    description: "bend over, scoop up, rise, lift arm"
+    difficulty: 4
+  
+  "05_02":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "dance"
+    difficulty: 4
+  
+  "14_24":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "traffic signals"
+    difficulty: 4
+  
+  "27_02":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "basketball signals"
+    difficulty: 4

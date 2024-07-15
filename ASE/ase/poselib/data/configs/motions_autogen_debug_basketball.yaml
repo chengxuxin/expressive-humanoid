@@ -1,0 +1,220 @@
+motions:
+  '06_02':
+    description: basketball - forward dribble
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '06_03':
+    description: basketball - forward dribble
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '06_04':
+    description: basketball - forward dribble
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '06_05':
+    description: basketball - forward dribble
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '06_06':
+    description: basketball - backward dribble
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '06_07':
+    description: basketball - backward dribble
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  06_08:
+    description: basketball - sideways dribble
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  06_09:
+    description: basketball - sideways dribble
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '06_10':
+    description: basketball - forward dribble, 90-degree left turns
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '06_11':
+    description: basketball - forward dribble, 90-degree right turns
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '06_12':
+    description: basketball - forward dribble, 90-degree right turns, crossover dribble
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '06_13':
+    description: basketball - low, fast free style dribble, dribble through legs
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '06_14':
+    description: basketball - crossover dribble, shoot
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '06_15':
+    description: basketball - dribble, shoot
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '124_03':
+    description: Basketball Shoot
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '124_04':
+    description: Basketball Free Throw
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '124_05':
+    description: Basketball Jump Shot
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '124_06':
+    description: Basketball Lay Up
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '15_12':
+    description: wash windows; basketball - dribble, lay-up shot, pass; throw ball;
+      dance - Egyptian walk, the Dive, the Twist; strew
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '26_02':
+    description: basketball signals
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '27_02':
+    description: basketball signals
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '27_06':
+    description: basketball signals
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '28_01':
+    description: basketball signals
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '28_05':
+    description: basketball signals
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '29_02':
+    description: basketball signals
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '29_07':
+    description: basketball signals
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '30_01':
+    description: basketball signals
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '30_07':
+    description: basketball signals
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '31_01':
+    description: basketball signals
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '31_05':
+    description: basketball signals
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '32_03':
+    description: basketball signals
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '32_07':
+    description: basketball signals
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '40_12':
+    description: basketball signals
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '41_10':
+    description: basketball signals
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '41_11':
+    description: basketball signals
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '86_14':
+    description: bouncing basketball, shooting basketball, dribble basketball, two
+      handed dribble
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  root: ../retarget_npy/

@@ -1,0 +1,30 @@
+motions:
+  root: "../retarget_npy/"
+  
+  "16_01":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    difficulty: 4
+    description: "jump"
+
+  "16_04":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    difficulty: 4
+    description: "high jump"
+  
+  "16_06":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    difficulty: 4
+    description: "forward jump"
+
+  "13_11":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    difficulty: 4
+    description: "forward jump"

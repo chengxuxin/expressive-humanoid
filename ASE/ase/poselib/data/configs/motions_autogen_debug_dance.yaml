@@ -1,0 +1,472 @@
+motions:
+  '05_02':
+    description: dance - expressive arms, pirouette
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '05_03':
+    description: dance - sideways arabesque, turn step, folding arms
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '05_04':
+    description: dance - sideways arabesque, folding arms, bending back
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '05_05':
+    description: dance - quasi-cou-de-pied, raised leg above hip-height, jete en tourant
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '05_06':
+    description: dance - cartwheel-like start, pirouettes, jete
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '05_07':
+    description: dance - small jetes, attitude, arabesque, shifted-axis pirouette,
+      turn
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  05_08:
+    description: dance - rond de jambe in the air, jete, turn
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  05_09:
+    description: dance - glissade devant, glissade derriere, attitude, arabesque
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '05_10':
+    description: dance - glissade devant, glissade derriere, attitude, arabesque
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '05_11':
+    description: dance - sideways steps, pirouette
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '05_12':
+    description: dance - arms held high, pointe tendue a terre, upper body rotation
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '05_13':
+    description: dance - small jetes, pirouette
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '05_14':
+    description: dance - retire derriere, attitude, arabesque
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '05_15':
+    description: dance - retire derriere, attitude, arabesque
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '05_16':
+    description: dance - coupe dessous, jete en tourant
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '05_17':
+    description: dance - coupe dessous, grand jete en tourant
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  05_18:
+    description: dance - attitude, arabesque, jete en tourant, bending back
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  05_19:
+    description: dance - attitude, arabesque, jete en tourant, bending back
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '05_20':
+    description: dance - attitude, arabesque, jete en tourant, bending back
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '111_05':
+    description: Dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '113_04':
+    description: Dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '120_05':
+    description: Mickey Dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '120_06':
+    description: Mickey Dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '120_07':
+    description: Mickey Dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '141_12':
+    description: Dance, Twist
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '143_34':
+    description: Chicken Dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '143_35':
+    description: Macarena Dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '15_12':
+    description: wash windows; basketball - dribble, lay-up shot, pass; throw ball;
+      dance - Egyptian walk, the Dive, the Twist; strew
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '18_15':
+    description: chicken dance (2 subjects - subject A)
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '19_15':
+    description: chicken dance (2 subjects - subject B)
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '20_01':
+    description: chicken dance (2 subjects - subject A)
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '21_01':
+    description: chicken dance (2 subjects - subject B)
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '49_09':
+    description: dance - arms held high, side arabesque
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '49_10':
+    description: dance - fold in from side arabesque, curl inwards
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '49_11':
+    description: dance - fold in from side arabesque, curl inwards
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '49_12':
+    description: dance - lean forward, bring back leg forward, arching arms
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '49_13':
+    description: dance - fold in from side arabesque, curl inwards
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '49_14':
+    description: dance - lean forward, bring back leg forward, arching arms
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '49_15':
+    description: static dance pose - folded in, head lowered, leg bent
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '49_16':
+    description: dance - fold in from side arabesque, curl inwards
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '49_17':
+    description: dance - lean forward, bring back leg forward, arching arms
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '49_22':
+    description: dance - lean back on bent leg, balance, bend elbow by ear
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '55_01':
+    description: dance, whirl
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '55_02':
+    description: lambada dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '60_01':
+    description: salsa dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '60_02':
+    description: salsa dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '60_03':
+    description: salsa dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '60_04':
+    description: salsa dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '60_05':
+    description: salsa dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '60_06':
+    description: salsa dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '60_07':
+    description: salsa dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '60_08':
+    description: salsa dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '60_09':
+    description: salsa dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '60_10':
+    description: salsa dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '60_11':
+    description: salsa dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '60_12':
+    description: salsa dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '60_13':
+    description: salsa dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '60_14':
+    description: salsa dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '60_15':
+    description: salsa dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '61_01':
+    description: salsa dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '61_02':
+    description: salsa dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '61_03':
+    description: salsa dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '61_04':
+    description: salsa dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '61_05':
+    description: salsa dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '61_06':
+    description: salsa dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '61_07':
+    description: salsa dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '61_08':
+    description: salsa dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '61_09':
+    description: salsa dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '61_10':
+    description: salsa dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '61_11':
+    description: salsa dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '61_12':
+    description: salsa dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '61_13':
+    description: salsa dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '61_14':
+    description: salsa dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '61_15':
+    description: salsa dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '85_10':
+    description: EndofBreakDance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '90_28':
+    description: breakdance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '90_30':
+    description: russian dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '90_31':
+    description: russian dance
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  root: ../retarget_npy/

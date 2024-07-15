@@ -1,0 +1,27 @@
+{
+    "source_motion": "data/npy/punch_defense2_move.npy",
+    "target_motion_path": "data/retarget_npy/punch_defense2_move.npy",
+    "source_tpose": "data/tpose/moveone_tpose.npy",
+    "target_tpose": "data/tpose/h1_tpose.npy",
+    "joint_mapping": {
+         "_1:Hips": "pelvis",
+         "_1:LeftUpLeg": "left_hip_yaw_link",
+         "_1:LeftLeg": "left_knee_link",
+         "_1:LeftFoot": "left_ankle_link",
+         "_1:RightUpLeg": "right_hip_yaw_link",
+         "_1:RightLeg": "right_knee_link",
+         "_1:RightFoot": "right_ankle_link",
+         "_1:Spine1": "torso_link",
+         "_1:LeftArm": "left_shoulder_pitch_link",
+         "_1:LeftForeArm": "left_elbow_link",
+         "_1:LeftHand": "left_hand_link",
+         "_1:RightArm": "right_shoulder_pitch_link",
+         "_1:RightForeArm": "right_elbow_link",
+         "_1:RightHand": "right_hand_link"
+    },
+    "rotation": [0, 0, 0.7071068, 0.7071068],
+    "scale": 0.01,
+	"root_height_offset": 0.0,
+	"trim_frame_beg": 500,
+	"trim_frame_end": 601
+}

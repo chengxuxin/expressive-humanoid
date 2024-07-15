@@ -1,0 +1,353 @@
+motions:
+  root: "../retarget_npy/"
+  
+  'sample00_rep00':
+    description: diffusion
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'sample00_rep01':
+    description: diffusion
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'sample01_rep00':
+    description: diffusion
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'sample01_rep01':
+    description: diffusion
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'sample01_rep02':
+    description: diffusion
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'sample02_rep00':
+    description: diffusion
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'sample02_rep01':
+    description: diffusion
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'sample03_rep00':
+    description: diffusion
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'sample03_rep01':
+    description: diffusion
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    
+  "142_08":
+    trim_beg: 200
+    trim_end: 876
+    weight: 1.0
+    description: "walk happily"
+    difficulty: 0
+  "07_04":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "slow walk"
+    difficulty: 2
+  "08_07":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "walk, exaggerated stride"
+    difficulty: 2
+  "08_11":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "slow walk, stride"
+    difficulty: 2
+  "38_03":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "run around in a circle"
+    difficulty: 2
+  "40_02":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "navigate - walk forward, backward, on a diagonal"
+    difficulty: 2
+  # "07_01":
+  #   trim_beg: -1
+  #   trim_end: -1
+  #   weight: 1.0
+  #   description: "walk"
+  # "142_05":
+  #   trim_beg: 0
+  #   trim_end: 1724
+  #   weight: 1.0
+  #   decription: "depressed"
+  # "142_06":
+  #   trim_beg: 0
+  #   trim_end: 680
+  #   weight: 1.0
+  #   decription: "elated"
+  # "142_10":
+  #   trim_beg: 0
+  #   trim_end: 1108
+  #   weight: 1.0
+  #   decription: "lavish"
+  # "142_11":
+  #   trim_beg: 0
+  #   trim_end: 980
+  #   weight: 1.0
+  #   decription: "marching"
+  
+  # "132_01":
+  #   trim_beg: -1
+  #   trim_end: -1
+  #   weight: 1.0
+  #   decription: "arms out"
+  # "132_35":
+  #   trim_beg: -1
+  #   trim_end: -1
+  #   weight: 1.0
+  #   decription: "leaning right"
+  # "02_05":
+  #   trim_beg: -1
+  #   trim_end: -1
+  #   weight: 1.0
+  #   description: "punch/stirke"
+  # "16_04":
+  #   trim_beg: -1
+  #   trim_end: -1
+  #   weight: 1.0
+  #   description: "high jump"
+  # "16_28":
+  #   trim_beg: -1
+  #   trim_end: -1
+  #   weight: 1.0
+  #   description: "walk, turn left"
+  #   difficulty: 2
+  # "16_30":
+  #   trim_beg: -1
+  #   trim_end: -1
+  #   weight: 1.0
+  #   description: "walk, turn right"
+  #   difficulty: 2
+  # "16_31":
+  #   trim_beg: -1
+  #   trim_end: -1
+  #   weight: 1.0
+  #   description: "walk"
+  #   difficulty: 1
+  # "16_34":
+  #   trim_beg: -1
+  #   trim_end: -1
+  #   weight: 1.0
+  #   description: "slow walk"
+  #   difficulty: 3
+  "16_36":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "run"
+    difficulty: 4
+  # "16_47":
+  #   trim_beg: -1
+  #   trim_end: -1
+  #   weight: 1.0
+  #   description: "walk"
+  #   difficulty: 1
+  # "13_20":
+  #   trim_beg: -1
+  #   trim_end: -1
+  #   weight: 1.0
+  #   description: "wash window"
+  # "17_03":
+  #   trim_beg: 0
+  #   trim_end: 1400
+  #   weight: 1.0
+  #   description: "walk stealthily"
+  #   difficulty: 1
+  "17_08":
+    trim_beg: 0
+    trim_end: 1000
+    weight: 1.0
+    description: "muscular, heavyset person's walk"
+    difficulty: 2
+  # "02_06":
+  #   trim_beg: 0
+  #   trim_end: 664
+  #   weight: 1.0
+  #   description: "bend over, scoop up, rise, lift arm"
+  #   difficulty: 4
+
+  # "49_18":
+  #   trim_beg: -1
+  #   trim_end: -1
+  #   weight: 1.0
+  #   description: "balance on one leg, outstretched arms"
+  #   difficulty: 4
+  
+  # "13_29":
+  #   trim_beg: -1
+  #   trim_end: -1
+  #   weight: 1.0
+  #   description: "jumping jacks, side twists, bend over, squats"
+  #   difficulty: 4
+
+  "16_01":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    difficulty: 4
+    description: "jump"
+
+  "16_04":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    difficulty: 4
+    description: "high jump"
+  
+  "16_06":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    difficulty: 4
+    description: "forward jump"
+
+  "13_11":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    difficulty: 4
+    description: "forward jump"
+  
+  "15_01":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    difficulty: 4
+    description: "walk, wander"
+  
+  "91_05":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    difficulty: 4
+    description: "mummy walk"
+  
+  "104_41":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    difficulty: 4
+    description: "zombie walk"
+
+  "132_15":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    difficulty: 4
+    description: "Walk With Knees Bent"
+  
+  "132_18":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    difficulty: 4
+    description: "Walk Fast"
+  
+  "132_29":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    difficulty: 4
+    description: "Bouncy Walk"
+  
+  "132_45":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    difficulty: 4
+    description: "Walk Slow"
+  
+  "142_22":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    difficulty: 4
+    description: "Walk Sneaky"
+  
+  "49_18":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "balance on one leg, outstretched arms"
+    difficulty: 4
+  
+  "13_29":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "jumping jacks, side twists, bend over, squats"
+    difficulty: 4
+  
+  "02_05":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "punch, stirke"
+    difficulty: 4
+    
+  "13_20":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "wash window"
+    difficulty: 4
+
+  "02_06":
+    trim_beg: 0
+    trim_end: 664
+    weight: 1.0
+    description: "bend over, scoop up, rise, lift arm"
+    difficulty: 4
+  
+  "05_02":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "dance"
+    difficulty: 4
+  
+  "14_24":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "traffic signals"
+    difficulty: 4
+  
+  "27_02":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "basketball signals"
+    difficulty: 4

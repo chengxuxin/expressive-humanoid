@@ -1,0 +1,31 @@
+# config for servers and path
+
+video:
+  path: "legged_gym/logs/videos/"
+
+common:
+  path: "legged_gym/logs/h1"
+
+cow:
+  HostName: cxx@cowles.ucsd.edu
+  Path: "/data/cxx/humanoid_h1"
+
+vol:
+  HostName: cxx@volcan.ucsd.edu
+  Path: "/data/cxx/humanoid_h1"
+
+bat:
+  HostName: cxx@batiquitos.ucsd.edu
+  Path: "/data/cxx/humanoid_h1"
+
+pen:
+  HostName: cxx@penasquitos.ucsd.edu
+  Path: "/data/cxx/humanoid_h1"
+
+cxx:
+  HostName: cxx@cxx
+  Path: "/home/cxx/humanoid_h1"
+
+vector:
+  HostName: cxx@vector
+  Path: "/home/cxx/humanoid_h1"
