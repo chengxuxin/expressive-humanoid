@@ -4,3 +4,4 @@ isaacgym*
 *img
 *__pycache__*
 fbx/
+**/__pycache__/

@@ -31,12 +31,12 @@ conda create -n humanoid python=3.8
 conda activate humanoid
 cd
 pip3 install torch==1.10.0+cu113 torchvision==0.11.1+cu113 torchaudio==0.10.0+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html
-git clone git@github.com:chengxuxin/expressive_humanoid_covariant.git
-cd expressive_humanoid_covariant
+git clone git@github.com:chengxuxin/expressive_humanoid.git
+cd expressive_humanoid
 # Download the Isaac Gym binaries from https://developer.nvidia.com/isaac-gym 
 cd isaacgym/python && pip install -e .
-cd ~/expressive_humanoid_covariant/rsl_rl && pip install -e .
-cd ~/expressive_humanoid_covariant/legged_gym && pip install -e .
+cd ~/expressive_humanoid/rsl_rl && pip install -e .
+cd ~/expressive_humanoid/legged_gym && pip install -e .
 pip install "numpy<1.24" pydelatin wandb tqdm opencv-python ipdb pyfqmr flask dill gdown
 ```
 Next install fbx. Follow the instructions [here](https://github.com/nv-tlabs/ASE/issues/61).
